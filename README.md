@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @begimaibb
 - 👀 I’m interested in Data Science and Web Development
 - 🌱 I’m currently learning Python, HTML, CSS
-- 💞️ I’m looking to collaborate on data analysis and web development projects, 
+- 💞️ I’m looking to collaborate on data analysis and web development projects 
 - 📫 How to reach me: begimai.bolotbekova.b@gmail.com
 
 <!---

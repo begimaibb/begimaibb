@@ -23,7 +23,7 @@
 - 🔐 **Mitigating Model Inversion Attacks in Healthcare ML**
 
 📫 Email: begimai.bolotbekova.b@gmail.com  
-🔗 LinkedIn: [link](https://www.linkedin.com/in/begimai-b/)  
+🔗 LinkedIn: [begimai-b](https://www.linkedin.com/in/begimai-b/)  
 📊 Kaggle: https://www.kaggle.com/begimaibolotbekovab 
 
 

@@ -22,7 +22,6 @@
 - 🎵 **Spotify Song Popularity Prediction**
 - 🔐 **Mitigating Model Inversion Attacks in Healthcare ML**
 
-📫 Email: begimai.bolotbekova.b@gmail.com  
 🔗 LinkedIn: [begimai-b](https://www.linkedin.com/in/begimai-b/)  
 📊 Kaggle: https://www.kaggle.com/begimaibolotbekovab 
 

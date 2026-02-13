@@ -19,7 +19,7 @@
 ## 📌 Featured Projects
 - 🏠 **Predicting Housing Prices in Taiwan** (Thesis)
 - 🩺 **Diabetes Risk Prediction**
-- 🎵 **Spotify Song Popularity Prediction**
+- 🎵 **Spotify Playlist Continuation**
 - 🔐 **Mitigating Model Inversion Attacks in Healthcare ML**
 
 🔗 LinkedIn: [begimai-b](https://www.linkedin.com/in/begimai-b/)  

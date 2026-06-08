@@ -1,4 +1,4 @@
-# Hi, I'm Begimai 👋
+# Hi, I'm Begimai!
 
 🎓 Data Science Master's student
 📊 Background in analytics & marketing (ex-Coca-Cola)  
@@ -17,13 +17,13 @@
 - **Privacy & Ethics:** Differential Privacy, Model Inversion Attacks
 
 ## 📌 Featured Projects
+- 🔐 **Mitigating Model Inversion Attacks in Healthcare ML**
 - 🏠 **Predicting Housing Prices in Taiwan** (Thesis)
 - 🩺 **Diabetes Risk Prediction**
-- 🎵 **Spotify Playlist Continuation**
-- 🔐 **Mitigating Model Inversion Attacks in Healthcare ML**
+
 
 🔗 LinkedIn: [begimai-b](https://www.linkedin.com/in/begimai-b/)  
-📊 Kaggle: https://www.kaggle.com/begimaibolotbekovab 
+👩🏻‍💻 Website: https://begimai-b-portfolio.vercel.app/
 
 
 <!---
